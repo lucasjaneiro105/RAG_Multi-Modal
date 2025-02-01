@@ -8,3 +8,4 @@ langchain-community
 langchain-groq
 faiss-cpu
 openai
+ipykernel # Caso o programa seja executado em um notebook (.ipynb)
