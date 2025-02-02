@@ -1,4 +1,4 @@
-![image](![image](https://github.com/user-attachments/assets/9128bc49-4610-442c-805f-f8b35b59add9)
+![image](https://github.com/user-attachments/assets/9128bc49-4610-442c-805f-f8b35b59add9)
 
 # RAG-MultiModal 🤖
 
