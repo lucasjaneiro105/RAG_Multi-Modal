@@ -23,6 +23,7 @@ RAG-MultiModal combina técnicas avançadas de conversão de documentos, divisã
 - Algumas dependências do Docling possuem divergências com o Streamlit, ocasionando pequenos problemas, mas nada que interfira diretamente no código.
 - Utilizar a embedding de um modelo pago (OpenAI) gera um pequeno custo.
 - Por ser uma biblioteca nova e ainda em fase experimental, pode demorar para carregar arquivos dependendo do seu tamanho, podendo levar até minutos somente para carregar.
+- O sistema apresentou certa dificuldade para fornecer informações a partir de imagens; entretanto, os desenvolvedores do Docling estão trabalhando em atualizações para melhorar a extração de dados de imagens.
 
 ## Observações
 
